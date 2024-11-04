@@ -3,7 +3,7 @@ title: Home Assistant Supervisor
 sidebar_label: Introduction
 ---
 
-The Supervisor allows the user to manage their Home Assistant installation from Home Assistant. The Supervisor has the following responsibilities:
+The Supervisor Module allows the user to manage their Home Assistant installation from Home Assistant. The Supervisor has the following responsibilities:
 
 - Run Home Assistant Core
 - Update Home Assistant Core. Automatically roll back if the update fails.
